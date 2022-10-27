@@ -7,3 +7,5 @@ I'm a Senior Power Platform Consultant at Hitachi Solutions America. You probabl
 - 🌱 I’m currently learning Power Automate Desktop.
 - 🐑 Ask me about starting a homestead in Central Pennsylvania.
 - 💾 How to reach me: [@troystaylor](https://twitter.com/troystaylor)
+
+[![@troystaylor's Holopin board](https://holopin.io/api/user/board?user=troystaylor)](https://holopin.io/@troystaylor)
