@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Troy.
 
-(https://github.com/troystaylor/troystaylor/blob/main/Written-By-Human-Not-By-AI-Badge-white%402x.png)
+![image](https://github.com/troystaylor/troystaylor/blob/main/Written-By-Human-Not-By-AI-Badge-white%402x.png)
 
 I'm a Senior Power Platform Consultant at Hitachi Solutions America. You probably know me for my [connectors](https://github.com/troystaylor/PowerPlatformConnectors).
 
