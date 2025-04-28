@@ -8,6 +8,6 @@ I'm a Senior Power Platform Consultant at Hitachi Solutions America. You probabl
 - 😄 Pronouns: he/him
 - 🌱 I’m currently learning about MCP servers.
 - 🐑 Ask me about starting a homestead in Central Pennsylvania.
-- 💾 How to reach me: [@troystaylor.com]([https://bsky.app/profile/troystaylor.com)
+- 💾 How to reach me: [@troystaylor.com](https://bsky.app/profile/troystaylor.com)
 
 [![@troystaylor's Holopin board](https://holopin.io/api/user/board?user=troystaylor)](https://holopin.io/@troystaylor)
